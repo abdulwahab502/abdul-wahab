@@ -42,7 +42,7 @@ An academic project in progress focused on detecting manipulated images and expl
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/wahab11-art
+- GitHub: https://github.com/abdulwahab502
 - LinkedIn: https://www.linkedin.com/in/abdulwahab200
 
 ---
